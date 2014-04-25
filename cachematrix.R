@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 ## args: matrix --assumption:invertible--
 ## procedure: creates a list including:
-##            a setter - nullifies return of solve and matrix input
+##            a setter - nullifies return of solve and set matrix input
 ##            a getter - retrieves the matrix input
 ##            a setter for solver cache - defines the function solve and returns 
 ##                                         to results variable
